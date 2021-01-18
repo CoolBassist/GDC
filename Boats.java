@@ -10,6 +10,10 @@ import java.util.Scanner;
 import java.io.FileWriter;
 import java.io.IOException;
 
+//TODO
+//Save the list of boats to a file, and read at program start. 
+//Be able to remove boats at an arbitary index.
+
 public class Boats {
     private ArrayList<Boat> listOfBoats = new ArrayList<Boat>();
 
